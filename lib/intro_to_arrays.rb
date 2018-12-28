@@ -24,4 +24,8 @@ end
 
 def last_element_array_methods(array)
   array.last
-end  
+end
+
+def length_of_array(array)
+  array.length
+end 

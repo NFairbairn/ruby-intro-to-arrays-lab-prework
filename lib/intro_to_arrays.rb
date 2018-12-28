@@ -23,11 +23,9 @@ def first_element_array_methods(array)
 end
 
 def last_element_array_methods(array)
-   element = array.last
-   puts element
+   array.last
 end
 
 def length_of_array(array)
-  element = array.length
-  puts element 
+   array.length
 end
